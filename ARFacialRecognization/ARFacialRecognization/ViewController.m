@@ -19,6 +19,8 @@
     NSLog(@"First git project");
     NSLog(@"First git project changes for push are ready");
     NSLog(@"First git project changes for push are ready 1");
+    NSLog(@"First git project changes for push are ready 2");
+       NSLog(@"First git project changes for push are ready 3");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
