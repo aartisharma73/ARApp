@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"First git project");
+    NSLog(@"First git project changes for push are ready");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
